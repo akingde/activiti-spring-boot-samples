@@ -2,7 +2,7 @@
 
 Examples of how to use spring boot with com.activiti 
 
-Make sure you have alfresco-internal maven reposiotry configured in your .m2/settings.xml
+Make sure you have alfresco-internal maven repository configured in your .m2/settings.xml
 
 
 ```xml
